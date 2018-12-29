@@ -1,686 +1,490 @@
 [
     {
-        "title": "好消息二台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=1"
+        "title": "Astro欢喜",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.35:8278/Huahee/playlist.m3u8"
     },
     {
-        "title": "民視 HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=2"
+        "title": "Astro全佳",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.35:8278/quanjia_hero/playlist.m3u8"
     },
     {
-        "title": "台視 HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=3"
+        "title": "AstroAOD",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.35:8278/astroaod_hero/playlist.m3u8"
     },
     {
-        "title": "中視 HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=4"
+        "title": "Astro华丽",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://5.79.87.234:8278/Wlt/playlist.m3u8"
     },
     {
-        "title": "華視 HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=5"
+        "title": "Astro喜悦",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://5.79.87.234:8278/Xiyue/playlist.m3u8"
     },
     {
-        "title": "公視 HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=6"
+        "title": "Astro双星",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://5.79.87.234:8278/Shuangxing/playlist.m3u8"
     },
     {
-        "title": "公視 2",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=7"
+        "title": "TVB翡翠台",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/jade_twn/playlist.m3u8"
     },
     {
-        "title": "公視 3",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=8"
+        "title": "凤凰卫视",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/phoenixtv_hd/playlist.m3u8"
     },
     {
-        "title": "大愛",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=9"
+        "title": "凤凰资讯",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/phoenixinfo_hd/playlist.m3u8"
     },
     {
-        "title": "原住民電視台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=10"
-    },
-    {
-        "title": "客家電視台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=11"
-    },
-    {
-        "title": "民視第一台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=12"
-    },
-    {
-        "title": "民視台灣台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=13"
-    },
-    {
-        "title": "華視新聞",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=16"
-    },
-    {
-        "title": "非凡新聞台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=18"
-    },
-    {
-        "title": "民視新聞台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=21"
-    },
-    {
-        "title": "三立新聞",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=22"
-    },
-    {
-        "title": "中天新聞台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=24"
-    },
-    {
-        "title": "TVBS新聞台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=25"
-    },
-    {
-        "title": "台視財經台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=26"
-    },
-    {
-        "title": "台視新聞",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=27"
-    },
-    {
-        "title": "中視新聞",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=28"
-    },
-    {
-        "title": "Disney",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=31"
-    },
-    {
-        "title": "Boomerang 卡通台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=32"
-    },
-    {
-        "title": "ANIMAX",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=33"
-    },
-    {
-        "title": "Discovery",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=34"
-    },
-    {
-        "title": "動物星球",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=35"
-    },
-    {
-        "title": "亞洲美食",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=36"
-    },
-    {
-        "title": "TLC",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=38"
-    },
-    {
-        "title": "DMAX",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=39"
-    },
-    {
-        "title": "國家地理 HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=40"
-    },
-    {
-        "title": "CN卡通台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=42"
-    },
-    {
-        "title": "Discovery Asia",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=43"
-    },
-    {
-        "title": "Discovery Science",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=45"
-    },
-    {
-        "title": "GTV 娛樂台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=46"
-    },
-    {
-        "title": "GTV八大第一台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=47"
-    },
-    {
-        "title": "GTV八大綜合台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=48"
-    },
-    {
-        "title": "GTV戲劇台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=49"
-    },
-    {
-        "title": "三立台湾台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=50"
-    },
-    {
-        "title": "霹雳台灣台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=51"
-    },
-    {
-        "title": "中天綜合台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=54"
-    },
-    {
-        "title": "中天娛樂台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=55"
-    },
-    {
-        "title": "KMTV",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=56"
-    },
-    {
-        "title": "國興衛視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=57"
-    },
-    {
-        "title": "TVBS",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=58"
-    },
-    {
-        "title": "台视综合",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=59"
-    },
-    {
-        "title": "高点综合",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=60"
-    },
-    {
-        "title": "TVB武功台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=61"
-    },
-    {
-        "title": "民視台灣台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv001"
-    },
-    {
-        "title": "民視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv002"
-    },
-    {
-        "title": "台灣交通台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv003"
-    },
-    {
-        "title": "民視綜藝台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv004"
-    },
-    {
-        "title": "大愛電視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv007"
-    },
-    {
-        "title": "中天新聞台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv009"
-    },
-    {
-        "title": "影迷數位電影台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv011"
-    },
-    {
-        "title": "視納華仁紀實頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv013"
-    },
-    {
-        "title": "東森亞洲衛視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv020"
-    },
-    {
-        "title": "東森亞洲幼幼台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv021"
-    },
-    {
-        "title": "東森亞洲新聞台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv022"
-    },
-    {
-        "title": "Comedy Central 爆笑頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv024"
-    },
-    {
-        "title": "MTV Live HD 音樂頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv025"
-    },
-    {
-        "title": "History 歷史頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv026"
-    },
-    {
-        "title": "CI罪案偵查頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv027"
-    },
-    {
-        "title": "寰宇新聞頻道HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f39dcbe8f33ec180fc541"
-    },
-    {
-        "title": "寰宇新聞二台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f3e033d32fc7b0e332285"
-    },
-    {
-        "title": "TVBS新聞台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=569f54e6981e0c7f0a061223"
-    },
-    {
-        "title": "民視新聞台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=56a747f6981e0c7f0a06129a"
-    },
-    {
-        "title": "海峽衛視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5901b6dcf53870240936be6a"
-    },
-    {
-        "title": "國會頻道一台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=59507ba147aa327b5f93c94a"
-    },
-    {
-        "title": "國會頻道二台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=59c485263ae968f0351e380c"
-    },
-    {
-        "title": "法國TV5電視台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=59fc45ed9e5098fa27519683"
-    },
-    {
-        "title": "法國24電視台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=546d5324ae89717668a16258"
-    },
-    {
-        "title": "EuroNews",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5478163f2f98a92b9febd51c"
-    },
-    {
-        "title": "博斯高球一台HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f44443d32fc7b0e332298"
-    },
-    {
-        "title": "博斯運動一台HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f44b73d32fc7b0e33229c"
-    },
-    {
-        "title": "博斯電玩台HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=54cb498d41a170b950afe1f3"
-    },
-    {
-        "title": "博斯網球台HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f45023d32fc7b0e33229e"
-    },
-    {
-        "title": "博斯魅力網HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f45693d32fc7b0e3322a2"
-    },
-    {
-        "title": "海峽衛視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5901b5c5f53870240936be69"
-    },
-    {
-        "title": "台視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b35f09b16d776694b154636"
-    },
-    {
-        "title": "中視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=57846f79fa4b198a0891a1a5"
-    },
-    {
-        "title": "民視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=56a74816981e0c7f0a06129b"
-    },
-    {
-        "title": "ETtoday綜合台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b5559edafd486d41653b196"
-    },
-    {
-        "title": "寰宇綜合HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f49113d32fc7b0e3322bf"
-    },
-    {
-        "title": "ITV Choice",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5af543043cc7d3427a054431"
-    },
-    {
-        "title": "龍華洋片台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b3c6717416275ac3734ce68"
-    },
-    {
-        "title": "靖天映晝",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b39a71f6e6b3b956ef9500e"
-    },
-    {
-        "title": "靖天歡樂台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b39a6fa6e6b3b956ef9500c"
-    },
-    {
-        "title": "靖天日本台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b39a70a6e6b3b956ef9500d"
-    },
-    {
-        "title": "靖天綜合台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b39a6e76e6b3b956ef9500b"
-    },
-    {
-        "title": "KTL-靖天國際台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b39a79e6e6b3b956ef95013"
-    },
-    {
-        "title": "好消息綜合台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5a461eb9bfdf3f8906674f3a"
-    },
-    {
-        "title": "好消息真理台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5a461f69bfdf3f8906674f3b"
-    },
-    {
-        "title": "中視菁采台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=585b93a23ea29db779f1030d"
-    },
-    {
-        "title": "客家電視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5551a7cddedfaf7c14d34107"
-    },
-    {
-        "title": "民視綜藝台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=57c521f8025574e040adcec7"
-    },
-    {
-        "title": "民視影劇台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=57c523c4025574e040adcecd"
-    },
-    {
-        "title": "民視第一台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=56a7483f981e0c7f0a06129d"
-    },
-    {
-        "title": "民視台灣台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=56a7482c981e0c7f0a06129c"
-    },
-    {
-        "title": "華研音樂台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=57c524a8025574e040adcecf"
-    },
-    {
-        "title": "華研娛樂台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=57c5252b025574e040adced1"
-    },
-    {
-        "title": "龍華經典台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=549e6eff76d76482a526439d"
-    },
-    {
-        "title": "亞洲旅遊台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f5a443d32fc7b0e3322d1"
-    },
-    {
-        "title": "美食星球",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f599a3d32fc7b0e3322cd"
-    },
-    {
-        "title": "Smart知識頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f5c5b3d32fc7b0e3322e1"
-    },
-    {
-        "title": "民視旅遊台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=56a71bf1981e0c7f0a061294"
-    },
-    {
-        "title": "Nick Jr.兒童頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b2c6eaa335926561569edc3"
-    },
-    {
-        "title": "尼克兒童國際頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b038428430ff1c531b0e575"
-    },
-    {
-        "title": "i Fun動漫",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5afbac73cf73c7d7655827f1"
-    },
-    {
-        "title": "靖洋卡通台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b39aaac6e6b3b956ef95045"
-    },
-    {
-        "title": "靖天卡通台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b39a7726e6b3b956ef95012"
-    },
-    {
-        "title": "Baby First",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f5bdb3d32fc7b0e3322db"
-    },
-    {
-        "title": "梅迪奇藝術頻道HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5440b1653d32fc7b0e332586"
-    },
-    {
-        "title": "靖天育樂台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b39a7526e6b3b956ef95010"
-    },
-    {
-        "title": "靖天資訊台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b39a75b6e6b3b956ef95011"
-    },
-    {
-        "title": "亞旅國際HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f5a6f3d32fc7b0e3322d3"
-    },
-    {
-        "title": "華視教育體育文化台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f5ccb3d32fc7b0e3322e5"
-    },
-    {
-        "title": "幸福旅遊",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f5aad3d32fc7b0e3322d5"
-    },
-    {
-        "title": "人間衛視(測試)",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=543f5c043d32fc7b0e3322dd"
-    },
-    {
-        "title": "東森購物1台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=549e67b276d76482a52641fd"
-    },
-    {
-        "title": "東森購物2台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b62c73eae48a071655552c8"
-    },
-    {
-        "title": "東森購物3台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=5b62c8d1ae48a071655552c9"
-    },
-    {
-        "title": "東森購物5台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=57c3eba20e5db6d06975e327"
-    },
-    {
-        "title": "唯心電視台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=574bb9c9ec078dd716166de5"
-    },
-    {
-        "title": "天良電視台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=573bd8b900e60cf54f71bf18"
-    },
-    {
-        "title": "信吉衛星電視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twftv.ashx?token=CrackWatch&type=hls&channel=56a9dda98e157af8791e1c86"
-    },
-    {
-        "title": "CNBC Asia 財經台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv030"
-    },
-    {
-        "title": "fyi 生活頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv031"
-    },
-    {
-        "title": "ITV Choice",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv036"
-    },
-    {
-        "title": "中視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv040"
-    },
-    {
-        "title": "靖天日本台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv047"
-    },
-    {
-        "title": "華視新聞",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv052"
-    },
-    {
-        "title": "靖天電影台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv061"
-    },
-    {
-        "title": "愛爾達娛樂台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv070"
-    },
-    {
-        "title": "中視新聞",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv074"
-    },
-    {
-        "title": "院會頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv089"
-    },
-    {
-        "title": "內政頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv090"
-    },
-    {
-        "title": "外交及國防頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv091"
-    },
-    {
-        "title": "經濟頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv092"
-    },
-    {
-        "title": "財政頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv093"
-    },
-    {
-        "title": "教育及文化頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv094"
-    },
-    {
-        "title": "交通頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv095"
-    },
-    {
-        "title": "司法及法制頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv096"
-    },
-    {
-        "title": "社會福利及衛生環境頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv097"
-    },
-    {
-        "title": "公視二台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv107"
-    },
-    {
-        "title": "VTV4",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=4gtv-4gtv108"
-    },
-    {
-        "title": "VOA美國之音",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=litv-ftv03"
-    },
-    {
-        "title": "民視旅遊台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=litv-ftv07"
-    },
-    {
-        "title": "半島國際新聞台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=litv-ftv10"
-    },
-    {
-        "title": "華研音樂台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=litv-ftv11"
-    },
-    {
-        "title": "華研娛樂台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=litv-ftv12"
-    },
-    {
-        "title": "民視新聞台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=litv-ftv13"
-    },
-    {
-        "title": "i-Fun動漫台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=litv-ftv15"
-    },
-    {
-        "title": "龍華卡通台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=litv-longturn01"
-    },
-    {
-        "title": "龍華日韓台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=litv-longturn11"
-    },
-    {
-        "title": "龍華偶像台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=litv-longturn12"
-    },
-    {
-        "title": "寰宇新聞台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=litv-longturn14"
-    },
-    {
-        "title": "亞洲旅遊台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=litv-longturn17"
-    },
-    {
-        "title": "ELTV英語學習台",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twtv.ashx?token=CrackWatch&type=sd&channel=litv-longturn20"
-    },
-    {
-        "title": "華納 TV",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=70"
-    },
-    {
-        "title": "壹電影",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=71"
+        "title": "凤凰香港",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://5.79.87.234:8278/Phxhk/playlist.m3u8"
     },
     {
         "title": "星空卫视",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=73"
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/xingkong/playlist.m3u8"
     },
     {
-        "title": "龍祥时代電影",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=74"
+        "title": "TVB星河",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/tvb8_twn/playlist.m3u8"
     },
     {
-        "title": "AXN",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=75"
+        "title": "美亚电影",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/meiyamovie_twn/playlist.m3u8"
     },
     {
-        "title": "FOX Sport3 HD",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=77"
+        "title": "星卫电影",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/xingwei_movie/playlist.m3u8"
     },
     {
-        "title": "Z 頻道",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=79"
+        "title": "卫视电影",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/weishimovie_twn/playlist.m3u8"
     },
     {
-        "title": "緯來體育",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=80"
+        "title": "天映频道",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.35:8278/Celestial/playlist.m3u8"
     },
     {
-        "title": "上海東方衛視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=91"
+        "title": "NatGeo HD",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/natgeohd_twn/playlist.m3u8"
     },
     {
-        "title": "浙江衛視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=92"
+        "title": "NatGeo People",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/natgeopeople_twn/playlist.m3u8"
     },
     {
-        "title": "湖南衛視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=93"
+        "title": "NatGeo Wild",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/natgeowild_twn/playlist.m3u8"
     },
     {
-        "title": "江蘇衛視",
-        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/twltv.ashx?token=CrackWatch&channel=94"
+        "title": "HBO HD",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/hbohd_twn/playlist.m3u8"
+    },
+    {
+        "title": "HBO Hits",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/hbohits_twn/playlist.m3u8"
+    },
+    {
+        "title": "HBO Signature",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/hbosignature_twn/playlist.m3u8"
+    },
+    {
+        "title": "Fox HD",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/foxhd_twn/playlist.m3u8"
+    },
+    {
+        "title": "Fox Family",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/foxfamily_twn/playlist.m3u8"
+    },
+    {
+        "title": "Fox Crime",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/foxcrime_twn/playlist.m3u8"
+    },
+    {
+        "title": "Fox Movies",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/foxpremium_twn/playlist.m3u8"
+    },
+    {
+        "title": "Fox Action",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/foxaction_twn/playlist.m3u8"
+    },
+    {
+        "title": "Dmax",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/discoveryturbo_twn/playlist.m3u8"
+    },
+    {
+        "title": "BBC Earth",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/bbcearthhd/playlist.m3u8"
+    },
+    {
+        "title": "BBC Lifestyle",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/bbcearthlifestyle/playlist.m3u8"
+    },
+    {
+        "title": "History 2",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/history2hd_twn/playlist.m3u8"
+    },
+    {
+        "title": "History",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/history1hd_twn/playlist.m3u8"
+    },
+    {
+        "title": "Animal_Planet",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/animalplanet_twn/playlist.m3u8"
+    },
+    {
+        "title": "Animal Planet HD",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://5.79.87.234:8278/Animalplanet/playlist.m3u8"
+    },
+    {
+        "title": "Discovery_Science",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/discoverysc_twn/playlist.m3u8"
+    },
+    {
+        "title": "TLC",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://5.79.87.234:8278/Tlc/playlist.m3u8"
+    },
+    {
+        "title": "TLC Travel Asia",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/tlcasia_twn/playlist.m3u8"
+    },
+    {
+        "title": "Asia Travel",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/asiatravel_twn/playlist.m3u8"
+    },
+    {
+        "title": "亚洲美食 AFC",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/asiafood_twn/playlist.m3u8"
+    },
+    {
+        "title": "美食星球 Food Planet",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/chinesefoodnetwork/playlist.m3u8"
+    },
+    {
+        "title": "美食频道 Food Network Asia",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/foodnetwork_twn/playlist.m3u8"
+    },
+    {
+        "title": "Diva",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/diva_twn/playlist.m3u8"
+    },
+    {
+        "title": "Luxe TV",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/luxetv_twn/playlist.m3u8"
+    },
+    {
+        "title": "E! Entertainment",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/e_twn/playlist.m3u8"
+    },
+    {
+        "title": "fyi",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/fyi_twn/playlist.m3u8"
+    },
+    {
+        "title": "CI",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/ci_twn/playlist.m3u8"
+    },
+    {
+        "title": "Discovery Asia",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/discoverytwn_twn/playlist.m3u8"
+    },
+    {
+        "title": "Eve",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/discoveryeve_twn/playlist.m3u8"
+    },
+    {
+        "title": "Nickelodeon Asia",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/nickelodeon_twn/playlist.m3u8"
+    },
+    {
+        "title": "Baby TV Taiwan",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/babytv_twn/playlist.m3u8"
+    },
+    {
+        "title": "Cartoon Network",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/momo1_twn/playlist.m3u8"
+    },
+    {
+        "title": "MY-Kids TV",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/mykids_twn/playlist.m3u8"
+    },
+    {
+        "title": "Disney Taiwan",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/disneytwn_twn/playlist.m3u8"
+    },
+    {
+        "title": "Boomerang TV",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/boomerang_twn/playlist.m3u8"
+    },
+    {
+        "title": "CNN HD",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/cnn_twn/playlist.m3u8"
+    },
+    {
+        "title": "BBC World News",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/bbcnews_twn/playlist.m3u8"
+    },
+    {
+        "title": "CNBC",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/cnbc_twn/playlist.m3u8"
+    },
+    {
+        "title": "Bloomberg News",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/bloomberg_twn/playlist.m3u8"
+    },
+    {
+        "title": "Sky News",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/skynews_twn/playlist.m3u8"
+    },
+    {
+        "title": "France 24",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/france24_twn/playlist.m3u8"
+    },
+    {
+        "title": "TV5MONDE",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/tv5monde_twn/playlist.m3u8"
+    },
+    {
+        "title": "Aljazeera HD",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/aljazeera_twn/playlist.m3u8"
+    },
+    {
+        "title": "MCOT HD Thailand",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/mcothd_thai/playlist.m3u8"
+    },
+    {
+        "title": "星卫娱乐台",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/starentertainment_twn/playlist.m3u8"
+    },
+    {
+        "title": "Fashion TV",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/fashiontv_twn/playlist.m3u8"
+    },
+    {
+        "title": "Travel Channel",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/travelchannel_twn/playlist.m3u8"
+    },
+    {
+        "title": "EYE TV Travel",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://190.2.153.128:8278/eyetvtravel_twn/playlist.m3u8"
+    },
+    {
+        "title": "EYE TV Drama",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/eyetvxiju_twn/playlist.m3u8"
+    },
+    {
+        "title": "民视",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ftvhd_taiwan/playlist.m3u8"
+    },
+    {
+        "title": "民视新闻",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ftvnew_taiwan/playlist.m3u8"
+    },
+    {
+        "title": "中视",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/zhongshi_twn/playlist.m3u8"
+    },
+    {
+        "title": "中天新闻",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ctinews/playlist.m3u8"
+    },
+    {
+        "title": "中天综合",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ctizhonghe/playlist.m3u8"
+    },
+    {
+        "title": "中天娱乐",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ctient/playlist.m3u8"
+    },
+    {
+        "title": "中天亚洲",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ctiasia_twn/playlist.m3u8"
+    },
+    {
+        "title": "TVBS",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/tvbs/playlist.m3u8"
+    },
+    {
+        "title": "TVBS新闻台",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/tvbs_n/playlist.m3u8"
+    },
+    {
+        "title": "TVBS欢乐台",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/tvbs_g/playlist.m3u8"
+    },
+    {
+        "title": "东森综合",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ettvzhonghe/playlist.m3u8"
+    },
+    {
+        "title": "东森新闻",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ettvnews/playlist.m3u8"
+    },
+    {
+        "title": "东森财经",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ettvcaijing_twn/playlist.m3u8"
+    },
+    {
+        "title": "东森电影",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ettvmovie/playlist.m3u8"
+    },
+    {
+        "title": "东森洋片",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ettvwestern/playlist.m3u8"
+    },
+    {
+        "title": "东森戏剧",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ettvdrama/playlist.m3u8"
+    },
+    {
+        "title": "东森幼幼",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/yoyo_twn/playlist.m3u8"
+    },
+    {
+        "title": "三立新闻",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/sanlinews/playlist.m3u8"
+    },
+    {
+        "title": "三立台湾",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/sanlitaiwan/playlist.m3u8"
+    },
+    {
+        "title": "三立戏剧",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/sanlixiju/playlist.m3u8"
+    },
+    {
+        "title": "三立都会",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/sanlidouhui/playlist.m3u8"
+    },
+    {
+        "title": "三立综合",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/sanlizhonghe/playlist.m3u8"
+    },
+    {
+        "title": "台视",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ttv_taiwan/playlist.m3u8"
+    },
+    {
+        "title": "华视",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/cts_taiwan/playlist.m3u8"
+    },
+    {
+        "title": "公视",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/ctv_taiwan/playlist.m3u8"
+    },
+    {
+        "title": "非凡新闻",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/feifannews_twn/playlist.m3u8"
+    },
+    {
+        "title": "非凡商业",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/feifancommercial_twn/playlist.m3u8"
+    },
+    {
+        "title": "八大第一",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/badafirst/playlist.m3u8"
+    },
+    {
+        "title": "八大综合",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/badazhonghe/playlist.m3u8"
+    },
+    {
+        "title": "八大戏剧",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/badadrama/playlist.m3u8"
+    },
+    {
+        "title": "纬来综合",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/videolandzhe_twn/playlist.m3u8"
+    },
+    {
+        "title": "纬来日本",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/videolandjapan_twn/playlist.m3u8"
+    },
+    {
+        "title": "纬来戏剧",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/videolandxiju_twn/playlist.m3u8"
+    },
+    {
+        "title": "纬来精彩",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/videolandspecial_twn/playlist.m3u8"
+    },
+    {
+        "title": "龙华电影",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/lunghuamovie_twn/playlist.m3u8"
+    },
+    {
+        "title": "龙华洋片",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/lunghuawestern_twn/playlist.m3u8"
+    },
+    {
+        "title": "龙华戏剧",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/lunghuaxiju_twn/playlist.m3u8"
+    },
+    {
+        "title": "龙华偶像",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/lunghuaidol_twn/playlist.m3u8"
+    },
+    {
+        "title": "龙华动画",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/lunghuaanimation_twn/playlist.m3u8"
+    },
+    {
+        "title": "靖天电影",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/jingtianmovie_twn/playlist.m3u8"
+    },
+    {
+        "title": "靖洋戏剧",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/jingyangxiju_twn/playlist.m3u8"
+    },
+    {
+        "title": "靖天映画",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/jingtianyinghua_twn/playlist.m3u8"
+    },
+    {
+        "title": "靖天卡通",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/jingtiancartoon_twn/playlist.m3u8"
+    },
+    {
+        "title": "年代新闻",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/niandainews_twn/playlist.m3u8"
+    },
+    {
+        "title": "国兴卫视",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/guoxingweishi_twn/playlist.m3u8"
+    },
+    {
+        "title": "鸿基影剧",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/hongjimovie_twn/playlist.m3u8"
+    },
+    {
+        "title": "曼迪日本",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/mandijapan_twn/playlist.m3u8"
+    },
+    {
+        "title": "爱尔达综合",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/eltazhonghe_twn/playlist.m3u8"
+    },
+    {
+        "title": "爱尔达影剧",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/eltadrama_twn/playlist.m3u8"
+    },
+    {
+        "title": "大爱1台",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://50.7.73.90:8278/daai_twn/playlist.m3u8"
+    },
+    {
+        "title": "新传媒8",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://5.79.87.234:8278/channel8/playlist.m3u8"
+    },
+    {
+        "title": "新传媒5",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://5.79.87.234:8278/channel5/playlist.m3u8"
+    },
+    {
+        "title": "新传媒Okto",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://5.79.87.234:8278/Okto/playlist.m3u8"
+    },
+    {
+        "title": "新传媒Vasantham",
+        "m3u8": "http://ali.hk.svc.proxy.timetv.cn/live/atv.ashx?token=CrackWatch&channel=http://5.79.87.234:8278/Vasantham/playlist.m3u8"
     }
 ]
